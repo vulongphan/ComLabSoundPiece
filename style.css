@@ -1,0 +1,22 @@
+* {
+  transition: opacity 1s ease;
+}
+
+.fade {
+  opacity: 0 !important;
+}
+
+.reveal {
+  opacity: 1 !important;
+}
+
+button {
+  border: 2px;
+  color: black;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+
